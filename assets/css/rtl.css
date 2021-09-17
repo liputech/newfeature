@@ -1,0 +1,47 @@
+.footer-top-area .widget ul.menu li a:before {
+    transform: rotateY(180deg);
+}
+.multiscroll-wrapper .small-image-left {
+    right: 0;
+    left: auto;
+}
+.multiscroll-wrapper .ms-right .img-content-right {
+    left: 0;
+    right: auto;
+}
+.multiscroll-wrapper .ms-left .img-content-left {
+    right: 0;
+    left: auto;
+}
+.multiscroll-wrapper .small-image-right {
+    left: 0;
+    right: auto;
+}
+.multiscroll-wrapper .ms-left .img-content-left {
+    border-radius: 15px 0 0 15px;
+}
+.multiscroll-wrapper .small-image-left img {
+    border-radius: 15px 0 0 15px;
+}
+.multiscroll-wrapper .ms-right .img-content-right {
+    border-radius: 0 15px 15px 0;
+}
+.multiscroll-wrapper .small-image-right img {
+    border-radius: 0 15px 15px 0;
+}
+.footer-style-1 .footer-area ul.shape-holder li.shape2 img,
+.footer-style-3 .footer-area ul.shape-holder li.shape2 img {
+    transform: rotateY(180deg);
+}
+.entry-header .entry-meta ul li {
+    display: inline-block;
+}
+.wp-block-quote {
+    border-left: 1px solid #e1e1e2;
+}
+.banner-slider .animation .slide-1.swiper-slide-active .shape-item .shape2 {
+    transform: translateX(0) rotateY(180deg);
+}
+.banner-slider .animation .slide-3.swiper-slide-active .shape-item .shape2 {
+    transform: translateX(0) rotateY(180deg);
+}
